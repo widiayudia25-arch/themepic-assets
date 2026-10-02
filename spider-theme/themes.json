@@ -1,0 +1,291 @@
+[
+    {
+        "id": "theme_spider_01",
+        "name": "Spider Web",
+        "description": "Tema super keren yang langsung diunduh otomatis dari server GitHub (CDN) milik Anda sendiri!",
+        "previewUrl": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_1.enc",
+        "category": "CYBERPUNK",
+        "wallpapers": [
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_1.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_2.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_3.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_4.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_5.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_6.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_7.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_8.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_9.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_10.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_11.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_12.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_13.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_14.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_15.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_16.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_17.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_18.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_19.enc"
+        ],
+        "widgetUrls": [
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/widgets/1.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/widgets/2.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/widgets/3.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/widgets/4.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/widgets/5.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/widgets/6.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/widgets/7.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/widgets/8.enc",
+            "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/widgets/9.enc"
+        ],
+        "iconUrls": {
+            "com.amazon.mShop.android.shopping": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/amazon.enc",
+            "com.android.vending": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/app_store.enc",
+            "com.behance.behance": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/behance.enc",
+            "com.google.android.apps.books": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/books.enc",
+            "com.google.android.calculator": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/calculator.enc",
+            "com.google.android.calendar": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/calendar.enc",
+            "com.google.android.GoogleCamera": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/camera.enc",
+            "com.google.android.projection.gearhead": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/car.enc",
+            "com.google.android.deskclock": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/clock.enc",
+            "com.google.android.contacts": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/contacts.enc",
+            "com.tinder": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/dating.enc",
+            "com.discord": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/discord.enc",
+            "com.disney.disneyplus": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/disney+.enc",
+            "com.etsy.android": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/etsy.enc",
+            "com.facebook.katana": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/facebook.enc",
+            "com.google.android.apps.meetings": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/facetime.enc",
+            "com.google.android.apps.nbu.files": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/files.enc",
+            "com.google.android.apps.adm": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/find_my.enc",
+            "com.google.android.apps.fitness": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/fitness.enc",
+            "com.fiverr.fiverr": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/fiverr.enc",
+            "com.google.android.play.games": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/game.enc",
+            "com.google.android.gm": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/gmail.enc",
+            "com.google.android.googlequicksearchbox": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/google.enc",
+            "com.android.chrome": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/google_chrome.enc",
+            "com.google.android.apps.maps": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/google_maps.enc",
+            "com.wbd.stream": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/hbo_max.enc",
+            "com.sec.android.app.shealth": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/health.enc",
+            "com.google.android.apps.chromecast.app": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/home.enc",
+            "com.hulu.plus": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/hulu.enc",
+            "com.instagram.android": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/instagram.enc",
+            "com.sec.android.app.samsungapps": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/itunes_store.enc",
+            "com.linkedin.android": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/linkedin.enc",
+            "me.lyft.android": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/lyft.enc",
+            "com.samsung.android.email.provider": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/mail.enc",
+            "com.google.android.apps.messaging": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/messages.enc",
+            "com.facebook.orca": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/messenger.enc",
+            "com.google.android.apps.youtube.music": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/music.enc",
+            "com.netflix.mediaclient": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/netflix.enc",
+            "com.google.android.apps.magazines": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/news.enc",
+            "com.google.android.keep": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/notes.enc",
+            "com.paypal.android.p2pmobile": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/paypal.enc",
+            "com.google.android.dialer": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/phone.enc",
+            "com.google.android.apps.photos": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/photos.enc",
+            "com.pinterest": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/pinterest.enc",
+            "com.google.android.apps.podcasts": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/podcast.enc",
+            "com.reddit.frontpage": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/reddit.enc",
+            "com.sec.android.app.sbrowser": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/safari.enc",
+            "com.android.settings": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/settings.enc",
+            "com.shazam.android": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/shazam.enc",
+            "com.snapchat.android": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/snapchat.enc",
+            "com.spotify.music": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/spotify.enc",
+            "com.starbucks.mobilecard": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/starbucks.enc",
+            "com.yahoo.mobile.client.android.finance": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/stocks.enc",
+            "com.target.ui": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/target.enc",
+            "org.telegram.messenger": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/telegram.enc",
+            "com.zhiliaoapp.musically": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/tiktok.enc",
+            "com.google.android.apps.translate": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/translate.enc",
+            "com.tumblr": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/tumblr.enc",
+            "com.google.android.videos": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/tv.enc",
+            "tv.twitch.android.app": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/twitch.enc",
+            "com.twitter.android": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/twitter.enc",
+            "com.ubercab": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/uber.enc",
+            "com.google.android.apps.recorder": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/voice_memos.enc",
+            "com.vsco.cam": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/vsco.enc",
+            "com.google.android.apps.walletnfcrel": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/wallet.enc",
+            "com.walmart.android": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/walmart.enc",
+            "com.samsung.android.app.watchmanager": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/watch.enc",
+            "wp.wattpad": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/wattpad.enc",
+            "com.sec.android.daemonapp": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/weather.enc",
+            "com.whatsapp": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/whatsapp.enc",
+            "com.google.android.youtube": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/youtube.enc",
+            "us.zoom.videomeetings": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/icons/zoom.enc"
+        },
+        "colorPalette": [
+            4293212469,
+            4278190080,
+            4294967295
+        ],
+        "rating": 5.0,
+        "downloadCount": 111,
+        "creatorName": "Mamamie",
+        "isFree": true,
+        "isPremium": false
+    },
+    {
+        "id": "theme_pastel_01",
+        "name": "Pastel Dreams",
+        "description": "A cute and fluffy pastel theme perfect for your cozy setup. Features soft pinks, blues, and rounded widgets.",
+        "previewUrl": "file:///android_asset/mock_cdn/themes/pastel_dreams/wallpaper.jpg",
+        "category": "CUTE",
+        "wallpapers": [
+            "file:///android_asset/mock_cdn/themes/pastel_dreams/wallpaper.jpg"
+        ],
+        "widgetUrls": [],
+        "iconUrls": {
+            "com.whatsapp": "file:///android_asset/mock_cdn/themes/pastel_dreams/icons/whatsapp.jpg",
+            "com.instagram.android": "file:///android_asset/mock_cdn/themes/pastel_dreams/icons/instagram.jpg",
+            "com.android.chrome": "file:///android_asset/mock_cdn/themes/pastel_dreams/icons/instagram.jpg",
+            "com.android.settings": "file:///android_asset/mock_cdn/themes/pastel_dreams/icons/whatsapp.jpg"
+        },
+        "colorPalette": [
+            4294951115,
+            4289583334,
+            4294967295
+        ],
+        "rating": 4.9,
+        "downloadCount": 45200,
+        "creatorName": "kawaii_studio",
+        "isFree": true,
+        "isPremium": false
+    },
+    {
+        "id": "theme_cyber_01",
+        "name": "Neon Cyberpunk",
+        "description": "High contrast neon aesthetic. Make your home screen pop with deep blacks and glowing elements.",
+        "previewUrl": "https://picsum.photos/seed/cyber_preview/400/600",
+        "category": "CYBERPUNK",
+        "wallpapers": [
+            "https://picsum.photos/seed/cyber_wall1/1080/2400",
+            "https://picsum.photos/seed/cyber_wall2/1080/2400",
+            "https://picsum.photos/seed/cyber_wall3/1080/2400"
+        ],
+        "widgetUrls": [],
+        "iconUrls": {
+            "com.whatsapp": "https://picsum.photos/seed/cyber_wa/192/192",
+            "com.instagram.android": "https://picsum.photos/seed/cyber_ig/192/192",
+            "com.google.android.youtube": "https://picsum.photos/seed/cyber_yt/192/192",
+            "com.twitter.android": "https://picsum.photos/seed/cyber_tw/192/192",
+            "com.spotify.music": "https://picsum.photos/seed/cyber_sp/192/192"
+        },
+        "colorPalette": [
+            4294901887,
+            4278251775,
+            4279369764
+        ],
+        "rating": 4.8,
+        "downloadCount": 31000,
+        "creatorName": "neon_dreams",
+        "isFree": false,
+        "isPremium": true
+    },
+    {
+        "id": "theme_anime_01",
+        "name": "Anime Cloudscape",
+        "description": "Breathtaking anime-style skies and clouds to give your phone a serene, cinematic look.",
+        "previewUrl": "https://picsum.photos/seed/anime_preview/400/600",
+        "category": "ANIME",
+        "wallpapers": [
+            "https://picsum.photos/seed/anime_wall1/1080/2400",
+            "https://picsum.photos/seed/anime_wall2/1080/2400"
+        ],
+        "widgetUrls": [],
+        "iconUrls": {
+            "com.whatsapp": "https://picsum.photos/seed/anime_wa/192/192",
+            "com.instagram.android": "https://picsum.photos/seed/anime_ig/192/192",
+            "com.google.android.youtube": "https://picsum.photos/seed/anime_yt/192/192"
+        },
+        "colorPalette": [
+            4287090411,
+            4294948545,
+            4294967295
+        ],
+        "rating": 4.7,
+        "downloadCount": 89000,
+        "creatorName": "makoto_fan",
+        "isFree": true,
+        "isPremium": false
+    },
+    {
+        "id": "theme_minimal_01",
+        "name": "Minimalist Earth",
+        "description": "Clean, earthy tones for a distraction-free home screen environment.",
+        "previewUrl": "https://picsum.photos/seed/minimal_preview/400/600",
+        "category": "MINIMAL",
+        "wallpapers": [
+            "https://picsum.photos/seed/minimal_wall1/1080/2400",
+            "https://picsum.photos/seed/minimal_wall2/1080/2400",
+            "https://picsum.photos/seed/minimal_wall3/1080/2400"
+        ],
+        "widgetUrls": [],
+        "iconUrls": {
+            "com.whatsapp": "https://picsum.photos/seed/min_wa/192/192",
+            "com.instagram.android": "https://picsum.photos/seed/min_ig/192/192"
+        },
+        "colorPalette": [
+            4294309340,
+            4287317267,
+            4281290575
+        ],
+        "rating": 4.6,
+        "downloadCount": 12000,
+        "creatorName": "zen_ui",
+        "isFree": true,
+        "isPremium": false
+    },
+    {
+        "id": "theme_nature_01",
+        "name": "Forest Explorer",
+        "description": "Bring the tranquility of the deep forest directly to your phone screen.",
+        "previewUrl": "https://picsum.photos/seed/nature_preview/400/600",
+        "category": "NATURE",
+        "wallpapers": [
+            "https://picsum.photos/seed/nature_wall1/1080/2400",
+            "https://picsum.photos/seed/nature_wall2/1080/2400",
+            "https://picsum.photos/seed/nature_wall3/1080/2400",
+            "https://picsum.photos/seed/nature_wall4/1080/2400"
+        ],
+        "widgetUrls": [],
+        "iconUrls": {
+            "com.whatsapp": "https://picsum.photos/seed/nature_wa/192/192",
+            "com.instagram.android": "https://picsum.photos/seed/nature_ig/192/192",
+            "com.google.android.youtube": "https://picsum.photos/seed/nature_yt/192/192"
+        },
+        "colorPalette": [
+            4281240407,
+            4283788079,
+            4294967295
+        ],
+        "rating": 4.9,
+        "downloadCount": 54000,
+        "creatorName": "wild_lens",
+        "isFree": true,
+        "isPremium": false
+    },
+    {
+        "id": "theme_retro_01",
+        "name": "Vintage 90s",
+        "description": "A blast from the past! Retro grids, synthwave suns, and neon pinks.",
+        "previewUrl": "https://picsum.photos/seed/retro_preview/400/600",
+        "category": "RETRO",
+        "wallpapers": [
+            "https://picsum.photos/seed/retro_wall1/1080/2400",
+            "https://picsum.photos/seed/retro_wall2/1080/2400"
+        ],
+        "widgetUrls": [],
+        "iconUrls": {
+            "com.whatsapp": "https://picsum.photos/seed/retro_wa/192/192",
+            "com.instagram.android": "https://picsum.photos/seed/retro_ig/192/192"
+        },
+        "colorPalette": [
+            4294902015,
+            4278255615,
+            4281008383
+        ],
+        "rating": 4.5,
+        "downloadCount": 28000,
+        "creatorName": "synth_boy",
+        "isFree": false,
+        "isPremium": true
+    }
+]
