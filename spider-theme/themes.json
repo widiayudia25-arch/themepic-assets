@@ -1,10 +1,10 @@
 [
     {
         "id": "theme_spider_01",
-        "name": "Spider WebX",
+        "name": "Spider Web",
         "description": "Tema super keren yang langsung diunduh otomatis dari server GitHub (CDN) milik Anda sendiri!",
         "previewUrl": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/preview_spiderman.enc",
-        "category": "MOVIE",
+        "category": "CYBERPUNK",
         "wallpapers": [
             "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_1.enc",
             "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_2.enc",
