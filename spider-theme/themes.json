@@ -3,7 +3,7 @@
         "id": "theme_spider_01",
         "name": "Spider WebX-github",
         "description": "Tema super keren yang langsung diunduh otomatis dari server GitHub (CDN) milik Anda sendiri!",
-        "previewUrl": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_1.enc",
+        "previewUrl": "https://github.com/widiayudia25-arch/themepic-assets/blob/main/spider-theme/preview_spiderman.png",
         "category": "MOVIE",
         "wallpapers": [
             "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/spider-theme/wallpapers/wallpaper_1.enc",
